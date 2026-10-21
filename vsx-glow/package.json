@@ -1,0 +1,35 @@
+{
+  "name": "vsx-glow",
+  "displayName": "VSx Glow",
+  "description": "A Neovim-inspired dark theme blending One Dark Pro and Dracula Official. Developed by SGDEV.",
+  "version": "0.1.1",
+  "publisher": "sgdev",
+  "author": {
+    "name": "SGDEV",
+    "email": "info@sgdev.qd.je",
+    "url": "https://vsx-glow.sgdev.qd.je"
+  },
+  "license": "GPL-3.0-only",
+  "homepage": "https://vsx-glow.sgdev.qd.je",
+  "bugs": {
+    "email": "info@sgdev.qd.je",
+    "url": "https://vsx-glow.sgdev.qd.je"
+  },
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#08090b",
+    "theme": "dark"
+  },
+  "engines": { "vscode": "^1.70.0" },
+  "categories": ["Themes"],
+  "keywords": ["theme", "dark", "neovim", "nvim", "one dark", "dracula", "glow", "sgdev"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VSx Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vsx-glow-color-theme.json"
+      }
+    ]
+  }
+}
