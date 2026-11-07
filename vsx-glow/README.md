@@ -1,6 +1,6 @@
 <p align="center">
   <img src="images/logo-512.png" alt="VSx Glow logo" width="160" />
-</p>
+</p> 
 
 <h1 align="center">VSx Glow</h1>
 
